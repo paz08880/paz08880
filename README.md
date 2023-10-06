@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel Fuzailove<br>💻 My hobby is web development<br>🌱 I’m currently learning Angular, React<br>💞️ I’m looking to collaborate on develop a crypto web<br>📫 Contact me for any problem: paz08880@gmail.com
+👋 Hi, I’m Daniel Fuzailove<br>💻 My hobby is web development<br>🌱 I’m currently learning Angular, React<br>💞️ I'm looking to collaborate on develop a big project<br>📫 Contact me for any problem: paz08880@gmail.com
 
 
 ## 🌐 Socials:
